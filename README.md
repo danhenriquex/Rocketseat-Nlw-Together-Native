@@ -21,7 +21,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  React Native App 🚀 In buildind...  🚧
+	🚧  React Native App 🚀 In progress...  🚧
 </h4>
 
 <div style='margin: 20px' id="layout">
