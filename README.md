@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">
-    <a href="https://reactnative.dev/"> <img src="./screenshots/react.svg" width="22" height="22"/> React Native</a>
+    <a href="https://reactnative.dev/"> <img src="./screenshots/favicon.ico" width="22" height="22"/> React Native</a>
 </h1>
 <p align="center">🚀 React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.</p>
 
@@ -43,25 +43,25 @@
 
 <div id="roadmap">
 
-### Pré-requisitos
+### Pre-requisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before you begin, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando a aplicação mobile
+### 🎲 Running the mobile application (FrontEnd)
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <git@github.com:danhenriquex/Rocketseat-Nlw-Together-Native.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in your terminal/cmd
 $ cd Rocketseat-Nlw-Together-Native
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ expo start
 
 
@@ -72,9 +72,9 @@ $ expo start
 
 <div id="tecnologias">
 
-### 🛠 Tecnologias
+### 🛠 Tech Stack
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
@@ -83,13 +83,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 </div>
 
-### Autor
+### Author
 
 ---
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> -->
 
 <div align="left">
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="danilo-henrique-santana"><a class="LI-simple-link" href='https://br.linkedin.com/in/danilo-henrique-santana?trk=profile-badge'>Danilo Henrique</a></div>
+<a href="https://github.com/danhenriquex">
+  <img src="https://github.com/danhenriquex.png" width="100" height="100" style="border-radius: 50%"/>
+</a>
+
+<!-- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="danilo-henrique-santana"><a class="LI-simple-link" href='https://br.linkedin.com/in/danilo-henrique-santana?trk=profile-badge'>Danilo Henrique</a></div> -->
+</div>
+
+<div style="margin-top: 20px">
+  <a href="https://www.linkedin.com/in/danilo-henrique-480032167/">
+    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
