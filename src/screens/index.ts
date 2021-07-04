@@ -1,1 +1,2 @@
-export * from "./SignIn/index";
+export * from "./SignIn";
+export * from "./Home";
