@@ -1,4 +1,4 @@
-<h1 align="center">Gameplay</h1>
+<h1 align="center">🎮 Gameplay</h1>
 <p align="center" id="objetivo">Implementation made during a Next Level Week that consists of a mobile application where the user can connect and organize times to play with friends.</p>
 
 <div align="center" gap="10px">
