@@ -17,7 +17,7 @@
  <a href="#features">Features</a> •
  <a href="#roadmap">How it works</a> • 
  <a href="#tecnologias">Tech Stack</a> • 
- <a href="#autor">Author</a>
+ <a href="#author">Author</a>
 </p>
 
 <h4 align="center"> 
@@ -98,7 +98,7 @@ The following tools were used in the construction of the project:
 <!-- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="danilo-henrique-santana"><a class="LI-simple-link" href='https://br.linkedin.com/in/danilo-henrique-santana?trk=profile-badge'>Danilo Henrique</a></div> -->
 </div>
 
-<div style="margin-top: 20px">
+<div style="margin-top: 20px" id="author">
   <a href="https://www.linkedin.com/in/danilo-henrique-480032167/">
     <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
