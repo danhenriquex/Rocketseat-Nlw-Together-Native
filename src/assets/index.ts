@@ -6,3 +6,4 @@ export { default as Fun } from "./fun.svg";
 export { default as Calendar } from "./calendar.svg";
 export { default as LeeSin } from "./illustration.png";
 export { default as Discord } from "./discord.png";
+export { default as Banner } from "./banner.png";
