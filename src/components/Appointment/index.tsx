@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text } from "react-native";
 import { RectButton, RectButtonProps } from "react-native-gesture-handler";
-import { GuildIcon } from "..";
+import { GuildIcon } from "../GuildIcon";
 import { categories } from "../../utils/categories";
 import { styles } from "./styles";
 import { Player, Calendar } from "../../assets";
