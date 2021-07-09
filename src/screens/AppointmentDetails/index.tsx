@@ -46,7 +46,8 @@ export function AppointmentDetails() {
         <View style={styles.bannerContent}>
           <Text style={styles.title}>Lendários</Text>
           <Text style={styles.subtitle}>
-            É hoje que vamos chegar ao challenger sem perder uma partida da md10
+            É hoje que vamos chegar ao challenger sem {"\n"} perder uma partida
+            da md10
           </Text>
         </View>
       </ImageBackground>
