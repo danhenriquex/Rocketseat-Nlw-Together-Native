@@ -37,7 +37,7 @@
 - [x] Day 01 - Overview about react native. features: SignIn page.
 - [x] Day 02 - Component for gradient theme, custom fonts, navigation, componentization, Images: Svg. Lists: ScrollView and FlatList.
 - [x] Day 03 - Forms, best practices for scrolling, formatted inputs, layout adjustments, navigation to create the schedule, Modal to list server details.
-- [x] Day 04 - Autenticação com Oauth2, contextos, rotas privadas.
+- [x] Day 04 - Authentication with Oauth2, contexts, private routes.
 - [ ] Day 05 -
 </div>
 
