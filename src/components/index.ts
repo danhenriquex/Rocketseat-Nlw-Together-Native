@@ -15,3 +15,4 @@ export { SmallInput } from "./SmallInput";
 export { TextArea } from "./TextArea";
 export { Guild } from "./Guild";
 export { ModalView } from "./ModalView";
+export { Load } from "./Load";
